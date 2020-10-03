@@ -1,0 +1,3 @@
+vezba 1 : Mrtvo diganje
+vezba 2: Vratilo
+vezba 3: Ednoracno veslanje so teg
